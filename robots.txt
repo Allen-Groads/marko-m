@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://карло-м.рф/sitemap.xml
